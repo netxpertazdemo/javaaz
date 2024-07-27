@@ -5,3 +5,4 @@ boolean isJavaFun = true;
 System.out.println(isJavaFun);
 System.out.println(isFishTasty);
 int x = 10;
+int x = 50;
