@@ -4,3 +4,4 @@ public static void main(String[] args) {
 boolean isJavaFun = true;
 System.out.println(isJavaFun);
 System.out.println(isFishTasty);
+int x = 10;
